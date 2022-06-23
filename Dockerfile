@@ -1,4 +1,4 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:0.183.0-debian
 
 ARG PGPASSWORD
 ARG PGHOST
